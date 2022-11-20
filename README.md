@@ -6,7 +6,7 @@
 
 🌐 This past summer I worked with the __Duke Energy Analytics Lab__ through the Climate+ summer program preparing a __global dataset of 10M images__ pulled from _Landsat, NAIP, and Sentinel_ through the Google Earth Engine. Here's an [overview](https://bigdata.duke.edu/projects/tracking-climate-change-causes-impacts-with-satellites-and-ai/) of what we did.
 
-🌱 I’m currently learning __full stack web development__ for building a website for an education NPO in the Philippines and __computer vision__ to effectively monitor sea turtles in Australia.
+🌱 I’m currently learning __full stack web development__ for building a website for an education NPO in the Philippines and __computer vision__ applied to marine conservation.
 
 💞️ I’m looking to collaborate on tech projects that involves __energy infrastructures, environmental issues, and equitable access to quality education__.
 
