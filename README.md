@@ -1,6 +1,6 @@
 ### 👋 Kumusta - _how are you_? 
 # I'm Edrian Liao
-🎓 I'm pursuing __electrical and computer engineering__ (with a concentration in machine learning and artificial intelligence) and _minors in mathematics and in environmental science & policy_ at __Duke University '25__
+🎓 I'm pursuing __electrical and computer engineering__ and __computer science__ with _a minor in mathematics_ at __Duke University '25__
 
 👀 I'm interested in the __teaching__ and __researching__ on the applications of machine learning to the environment: agriculture, conservation, climate, energy, etc. 
 
