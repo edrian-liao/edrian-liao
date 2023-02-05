@@ -1,12 +1,12 @@
 ### 👋 Kumusta - _how are you_? 
 # I'm Edrian Liao
-🎓 I'm pursuing __electrical and computer engineering__ and __computer science__ with _a minor in mathematics_ at __Duke University '25__
+🎓 I'm pursuing __electrical engineering__ and __computer science__ with _a minor in mathematics_ at __Duke University '25__
 
 👀 I'm interested in the __teaching__ and __researching__ on the applications of machine learning to the environment: agriculture, conservation, climate, energy, etc. 
 
 🌐 This past summer I worked with the __Duke Energy Analytics Lab__ through the Climate+ summer program preparing a __global dataset of 10M images__ pulled from _Landsat, NAIP, and Sentinel_ through the Google Earth Engine. Here's an [overview](https://bigdata.duke.edu/projects/tracking-climate-change-causes-impacts-with-satellites-and-ai/) of what we did.
 
-🌱 I’m currently learning __full stack web development__ for building a website for an education NPO in the Philippines and __computer vision__ applied to marine conservation.
+🌱 I’m currently learning __full stack web development__ for building a website for an education NPO in the Philippines.
 
 💞️ I’m looking to collaborate on tech projects that involves __energy infrastructures, environmental issues, and equitable access to quality education__.
 
