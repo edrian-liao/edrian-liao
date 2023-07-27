@@ -6,9 +6,9 @@
 
 🌐 This past summer I worked with the __Duke Energy Analytics Lab__ through the Climate+ summer program preparing a __global dataset of 10M images__ pulled from _Landsat, NAIP, and Sentinel_ through the Google Earth Engine. Here's an [overview](https://bigdata.duke.edu/projects/tracking-climate-change-causes-impacts-with-satellites-and-ai/) of what we did.
 
-🌱 Last Dec 2022,  I built a [website](http://projectkayamanan.org/) for an non-profit organization in the Philippines that focuses on providing financial literacy to Filipino high school students.
+🌱 Last Dec 2022,  I built a [website](https://edrian-liao.github.io/project-kayamanan-website/index.html) for an non-profit organization in the Philippines that focuses on providing financial literacy to Filipino high school students.
 
-💞️ This summer, I will embark on a project based in the countryside of the Philippines _(more details in June)_.
+💞️ This summer, I am starting a project that aims to share stories about the impacts of climate change to the most remote and vulnerable areas of the world, stories not only shared with words but also images, videos, and data to encapsulate and give justice to people’s experiences. My first stop is my hometown in the Philippines.
 
 📫 You can reach out through [LinkedIn](https://www.linkedin.com/in/edrianpaulliao/) or my work [email](mailto:edrianpaul.liao@duke.edu).
 
