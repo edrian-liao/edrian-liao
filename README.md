@@ -8,7 +8,7 @@
 
 🌱 Last Dec 2022,  I built a [website](https://edrian-liao.github.io/project-kayamanan-website/index.html) for an non-profit organization in the Philippines that focuses on providing financial literacy to Filipino high school students.
 
-💞️ This summer, I'll be starting my project named __PlanetTales__ that aims to share stories about the impacts of climate change to the most remote and vulnerable areas of the world, stories not only shared with words but also images, videos, and data to encapsulate and give justice to people’s experiences. Funded by my scholarship, my project's first stop is my hometown in the Philippines.
+💞️ This summer, I started my project named __PlanetTales__ that aims to share stories about the impacts of climate change to the most remote and vulnerable areas of the world, stories not only shared with words but also images, videos, and data to encapsulate and give justice to people’s experiences. Funded by my scholarship, my project's first stop is my hometown in the Philippines.
 
 📫 You can reach out through [LinkedIn](https://www.linkedin.com/in/edrianpaulliao/) or my work [email](mailto:edrianpaul.liao@duke.edu).
 
